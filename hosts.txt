@@ -1,0 +1,31 @@
+##########################      ##########################					
+##### Localhost					
+localhost localhost.localdomain         localhost4      localhost4.localdomain4					
+#::1       localhost localhost.localdomain localhost6 localhost6.localdomain6					
+#					
+##########################      ##########################					
+10.255.210.11		utilityMgmt.icap.gr			utilityMgmt	
+10.255.210.12		gatehostMgmt.icap.gr		gatehostMgmt	
+10.255.210.13		master01Mgmt.icap.gr		master01Mgmt	
+10.255.210.14		master02Mgmt.icap.gr		master02Mgmt	
+10.255.210.15		master03Mgmt.icap.gr		master03Mgmt	
+10.255.210.16		worker01Mgmt.icap.gr		worker01Mgmt	
+10.255.210.17		worker02Mgmt.icap.gr		worker02Mgmt	
+10.255.210.18		worker03Mgmt.icap.gr		worker03Mgmt	
+10.255.210.19		worker04Mgmt.icap.gr		worker04Mgmt	
+10.255.210.20		worker05Mgmt.icap.gr		worker05Mgmt	
+10.255.210.21		worker06Mgmt.icap.gr		worker06Mgmt	
+##########################      ##########################					
+# Traffic Nodes  192.168.10.x					
+##########################      ##########################					
+192.168.10.11		utilityBigData.icap.gr		utilityBigData	
+192.168.10.12		gatehostBigData.icap.gr		gatehostBigData	
+192.168.10.13		master01BigData.icap.gr		master01BigData	
+192.168.10.14		master02BigData.icap.gr		master02BigData	
+192.168.10.15		master03BigData.icap.gr		master03BigData	
+192.168.10.16		worker01BigData.icap.gr		worker01BigData	
+192.168.10.17		worker02BigData.icap.gr		worker02BigData	
+192.168.10.18		worker03BigData.icap.gr		worker03BigData	
+192.168.10.19		worker04BigData.icap.gr		worker04BigData	
+192.168.10.20		worker05BigData.icap.gr		worker05BigData	
+192.168.10.21		worker06BigData.icap.gr		worker06BigData	
